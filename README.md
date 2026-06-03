@@ -6,7 +6,6 @@ Files
 - `task1-5beginner.py` — beginner exercise (open and run to see behavior).
 - `task1-intermediate.py` — Hangman game (interactive). Run with Python to play.
 - `task2-intermediate.py` — Simple web scraper function. Prompts for a URL when executed.
-- `task1-advance.py` — Script for EDA; if `your_dataset.csv` is missing it uses a dummy dataset.
 - `task1-advance.ipynb` — Notebook version of the advanced EDA (recommended to run interactively).
 
 Setup
